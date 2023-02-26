@@ -37,7 +37,7 @@ We plan to implement this app using:
 We will want to have a user interface for admin and users similar to the example below where they may view open inquiries and live chat on the side. 
 
 <p align="center">
-  <img src="https://github.com/Aayana-E/Customer-Support/blob/main/Inspiration/dashboard.png" alt="animated" />
+  <img src="https://github.com/hassankaz1/Customer-Support/blob/master/Inspiration/dashboard.png" alt="animated" />
 </p>
 
 
