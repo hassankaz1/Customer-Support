@@ -1,0 +1,84 @@
+.Login-Page {
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Login {
+    position: relative;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+  
+  .Login h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .Login-Signin {
+    margin-top: 20px;
+  }
+  
+  .Login-Signin .nav-link {
+    border: none;
+    background-color: transparent;
+    color: #333;
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 10px;
+  }
+  
+  .Login-Signin .nav-link.active {
+    border-bottom: 2px solid #007bff;
+    color: #007bff;
+  }
+  
+  .Login-Signin .tab-content {
+    border: 1px solid #ccc;
+    border-top: none;
+    padding: 20px;
+    border-radius: 0 0 4px 4px;
+  }
+  
+  .Login-Signin label {
+    font-weight: bold;
+  }
+  
+  .Login-Signin input {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .Login-Signin button {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .Login-Signin button:hover {
+    background-color: #0069d9;
+  }
+  
+
+  body{
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
